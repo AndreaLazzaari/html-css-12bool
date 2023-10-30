@@ -2,24 +2,13 @@
 [class^="col"]{
     background-color: #006cfa;
     color: white;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     border: 1px solid;
+    padding: .7em;
+    text-align: center;
 }
 
 .nasted{
     background-color: lime;
-    padding: 2em;
-}
-
-.nasted-2{
-    flex-basis: calc(((100% / 12) * 2) - 4em);
-}
-
-.nasted-8{
-    flex-basis: calc(((100% / 12) * 8) - 4em);
 }
 
 .container{
