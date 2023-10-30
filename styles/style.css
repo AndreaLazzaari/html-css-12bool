@@ -11,6 +11,15 @@
 
 .nasted{
     background-color: lime;
+    padding: 2em;
+}
+
+.nasted-2{
+    flex-basis: calc(((100% / 12) * 2) - 4em);
+}
+
+.nasted-8{
+    flex-basis: calc(((100% / 12) * 8) - 4em);
 }
 
 .container{
